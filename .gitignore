@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+tools
+*_old
+data-unversioned/part2/luna
+data-unversioned/cache
+util/__pycache__/
+p2ch10/__pycache__/
+data
